@@ -1,0 +1,23 @@
+# Créé par https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Modifier sur https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-extraits
+
+# Historique local pour Visual Studio Code
+.histoire/
+
+# Création d'extensions de code Visual Studio
+*.vsix
+
+### Correctif VisualStudioCode ###
+# Ignorer tout l'historique local des fichiers
+.histoire
+.ionide
+
+# Fin de https://www.toptal.com/developers/gitignore/api/visualstudiocode 
