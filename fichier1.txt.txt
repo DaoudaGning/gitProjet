@@ -1,0 +1,1 @@
+ Exemple simple de page de connexion en utilisant HTML, CSS et JavaScript.
