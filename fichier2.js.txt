@@ -70,7 +70,7 @@
             var password = document.getElementById("password").value;
 
             // Ici, vous pouvez ajouter la logique d'authentification
-            // (par exemple, en vérifiant les informations côté serveur)
+           
 
             // Pour cet exemple, affichons les valeurs dans la console
             console.log("Nom d'utilisateur:", username);
